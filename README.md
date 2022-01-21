@@ -22,6 +22,6 @@ $ node ./index.js
 ```
 
 ## Problem
-if you have a problem you can contact me on **[fiverr](https://fr.fiverr.com/darkword62149)** or via discord **Blizz#6699**
+if you have a problem you can contact me on **[fiverr](https://www.fiverr.com/blizz_)** or via discord **Blizz#6699**
 
 
